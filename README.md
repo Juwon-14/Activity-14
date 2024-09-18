@@ -1,0 +1,1 @@
+Activity 14 - I created a program that allows users to guess a randomly generated number within a specified range of 1 to 10. A feature was added that provides feedback, indicating whether the guessed number is too small or too large, guiding the user to correctly match the number.
